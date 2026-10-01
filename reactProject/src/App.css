@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.btn-animate {
+  transition: all 0.5s ease;
+
+}
+
+
+
+.btn-animate:hover {
+  filter: brightness(1.05);
+  /* Slight glow on hover */
+}
+
+.btn-animate:active {
+  transform: scale(0.95);
+  /* Clear scale effect */
+
+
+}
