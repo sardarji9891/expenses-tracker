@@ -124,7 +124,7 @@ function App() {
         </div>
       </div>
 
-      <div className="m-4" style={{ paddingTop: "300px" }}>
+      <div className=" container space">
         <div className="text-end pe-5 me-auto">
           <button
             type="button"

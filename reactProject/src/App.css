@@ -19,6 +19,14 @@
 .btn-animate:active {
   transform: scale(0.95);
   /* Clear scale effect */
+}
 
+.space {
+  margin-top: 320px;
+}
 
+@media (max-width: 768px) {
+  .space {
+    margin-top: 390px;
+  }
 }
